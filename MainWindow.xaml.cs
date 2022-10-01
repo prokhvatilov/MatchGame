@@ -25,6 +25,7 @@ namespace MatchGame
             InitializeComponent();
 
             SetUpGame();
+            Xyz
         }
 
         private void SetUpGame()
