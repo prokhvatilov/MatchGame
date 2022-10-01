@@ -12,7 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+// TODO: Make every emoji dissapear 10 seconds after they become visible
+// TODO: Add a timer, so player can see how fast he/she can finish the game.
 namespace MatchGame
 {
     /// <summary>
